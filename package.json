@@ -1,0 +1,16 @@
+{
+  "name": "vite-plugin-semi-theme-fix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hechaoqun/vite-plugin-semi-theme-fix.git",
+  "author": "ellite",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "sass": "^1.49.8"
+  },
+  "keywords": [
+    "vite-plugin",
+    "semi-ui"
+  ]
+}
